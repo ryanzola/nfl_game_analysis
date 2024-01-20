@@ -39,7 +39,7 @@ The app should now be running on your local server and automatically open in the
 
 - [PRO FOOTBALL REFERENCE](https://www.pro-football-reference.com/)
 
-## Disclaimer: For Entertainment, Not for Emptying Wallets
+## Disclaimer: Not a Crystal Ball
 
 NFL Game Analysis is a tool for sports analytics, intended for fun, banter, and maybe settling arguments on which team is better.
 
